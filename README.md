@@ -1,7 +1,7 @@
 # Learning Deep Parsimonious Representations
 
 This is the code for our NIPS'16 paper:
-* Renjie Liao, Alexander Schwing, Richard S. Zemel, Raquel Urtasun. [*Learning Deep Parsimonious Representations*](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-29-2016).
+* Renjie Liao, Alexander Schwing, Richard S. Zemel, Raquel Urtasun. [*Learning Deep Parsimonious Representations*](https://papers.nips.cc/paper/6263-learning-deep-parsimonious-representations).
 Neural Information Processing System, 2016.
 
 Please cite the above paper if you use our code.
